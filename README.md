@@ -1,8 +1,6 @@
 # Builder
+   Instruction for "Builder v.0.1" 
 
-|      Instruction for "Builder v.0.1"      |
-|  	                                        |
-|___________________________________________|
 
 - Run program
 - Choice size of map

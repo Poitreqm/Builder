@@ -1,5 +1,6 @@
 # Builder
-BUilder map for the game Start Wolves. Test Edition
+Builder map for the game Start Wolves. Test Edition.
+C#, C++, Windows Form
 
    Instruction for "Builder v.0.1" 
 
